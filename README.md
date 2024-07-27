@@ -11,6 +11,6 @@
 
 📫 **How to Reach Me:**
 - 📧 Email: [jamesmchl.18@gmail.com](mailto:jamesmchl.18@gmail.com)
-- [![LinkedIn](https://img.icons8.com/fluent/30/000000/linkedin.png)](https://linkedin.com/in/jamesiswanto)
+- 🔗 LinkedIn: [linkedin.com/in/jamesiswanto](https://linkedin.com/in/jamesiswanto)
 
 Feel free to connect with me for collaboration or just a tech chat!
