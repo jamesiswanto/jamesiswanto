@@ -1,4 +1,4 @@
-# Greetings Fellow Tech Savvy, I'm James! 👋
+# Greetings, Tech Enthusiasts! I'm James! 👋
 
 🌐 **About Me:**
 - 👀 I'm deeply interested in blockchain technology.
