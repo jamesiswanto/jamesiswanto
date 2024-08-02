@@ -1,4 +1,4 @@
-# Hi there, I'm James Siswanto! 👋
+# Greetings Fellow Tech Savvy, I'm James! 👋
 
 🌐 **About Me:**
 - 👀 I'm deeply interested in blockchain technology.
