@@ -1,8 +1,8 @@
 # Hi, Tech Enthusiasts! **I'm James!** 👋
 
 🌐 **About Me:**
-- 👀 I'm deeply interested in **Big Data, Machine Learning, and Artificial Intelligence**.
-- 🌱 Currently, I'm diving into the world of data engineering.
+- 👀 I'm deeply interested in **Artificial Intelligence**.
+- 🌱 Currently, I'm diving into the world of Computer Vision with Deep Learning.
 - 🤝 I’m looking to collaborate on any **innovative projects.**
 
 💼 **Projects and Interests:**
