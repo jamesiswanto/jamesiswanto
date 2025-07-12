@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an NLP project<br>🌱 I’m currently learning Backend and Smart Contract
+Hi, I'm James — an AI & NLP enthusiast with a mission to build real-world, human-centered AI systems.<br>I’m currently pursuing my undergraduate degree in Informatics while working on chatbot agents and semantic search.
 
 
 ## 🌐 Socials:
